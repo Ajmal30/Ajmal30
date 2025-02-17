@@ -64,5 +64,5 @@ Here are some ideas to get you started:
 <span class="pl-ent">currently_learning</span>: <span class="pl-s">["Docker, Kubernetes, and React Native"]</span>
 <span class="pl-ent">2024 Goals</span>: <span class="pl-s">["Create 25+ Projects and learn at least 5-10 new Technologies."]</span>
 <span class="pl-ent">hobbies</span>: <span class="pl-s">["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-  </div></div>
+  </div>
 
