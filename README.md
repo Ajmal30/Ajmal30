@@ -64,36 +64,5 @@ Here are some ideas to get you started:
 <span class="pl-ent">currently_learning</span>: <span class="pl-s">["Docker, Kubernetes, and React Native"]</span>
 <span class="pl-ent">2024 Goals</span>: <span class="pl-s">["Create 25+ Projects and learn at least 5-10 new Technologies."]</span>
 <span class="pl-ent">hobbies</span>: <span class="pl-s">["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
-education:
-  [
-    &quot;Self-Taught Developer and Designer&quot;,
-    &quot;Master's in Electrical and Computer Engineering&quot;,
-    &quot;Bachelor's in Electronics and Communication&quot;,
-  ]
-company: Soulber
-
-fields_of_interests:
-  [
-    &quot;Web Development&quot;,
-    &quot;Data Science&quot;,
-    &quot;Machine Learning&quot;,
-    &quot;UI/UX&quot;,
-    &quot;Game Development&quot;,
-    &quot;DevOps&quot;,
-  ]
-technical_background:
-  [
-    &quot;Full Stack Developer&quot;
-    &quot;DevOps Solutions Architect&quot;,
-    &quot;Intern - Data Science &amp; Machine Learning in Python&quot;,
-    &quot;Intern - Internet Of Things&quot;,
-    &quot;Intern - VLSI and FPGA Implementation&quot;,
-  ]
-  
-currently_learning: [&quot;Docker, Kubernetes, and React Native&quot;]
-2024 Goals: [&quot;Create 25+ Projects and learn at least 5-10 new Technologies.&quot;]
-hobbies: [&quot;Gaming&quot;, &quot;Cinema&quot;, &quot;Skateboarding&quot;, &quot;Art&quot;, &quot;Comedy&quot;]" tabindex="0" role="button">
   </div></div>
  
