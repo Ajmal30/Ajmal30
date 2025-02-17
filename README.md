@@ -64,7 +64,6 @@ Here are some ideas to get you started:
 <span class="pl-ent">currently_learning</span>: <span class="pl-s">["Docker, Kubernetes, and React Native"]</span>
 <span class="pl-ent">2024 Goals</span>: <span class="pl-s">["Create 25+ Projects and learn at least 5-10 new Technologies."]</span>
 <span class="pl-ent">hobbies</span>: <span class="pl-s">["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0" data-copy-feedback="Copied!" data-tooltip-direction="w" value="name: Piyush Malhotra
 located_in: Calgary, Alberta
 current_job: Full Stack Developer
 education:
@@ -96,6 +95,5 @@ technical_background:
 currently_learning: [&quot;Docker, Kubernetes, and React Native&quot;]
 2024 Goals: [&quot;Create 25+ Projects and learn at least 5-10 new Technologies.&quot;]
 hobbies: [&quot;Gaming&quot;, &quot;Cinema&quot;, &quot;Skateboarding&quot;, &quot;Art&quot;, &quot;Comedy&quot;]" tabindex="0" role="button">
-    </clipboard-copy>
   </div></div>
  
