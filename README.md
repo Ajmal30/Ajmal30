@@ -65,4 +65,35 @@ Here are some ideas to get you started:
 <span class="pl-ent">2024 Goals</span>: <span class="pl-s">["Create 25+ Projects and learn at least 5-10 new Technologies."]</span>
 <span class="pl-ent">hobbies</span>: <span class="pl-s">["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
   </div></div>
- 
+ <pre><span class="pl-ent">name</span>: <span class="pl-s">Piyush Malhotra</span>
+<span class="pl-ent">located_in</span>: <span class="pl-s">Calgary, Alberta</span>
+<span class="pl-ent">current_job</span>: <span class="pl-s">Full Stack Developer</span>
+<span class="pl-ent">education</span>:
+  <span class="pl-s">[</span>
+    <span class="pl-s"><span class="pl-pds">"</span>Self-Taught Developer and Designer<span class="pl-pds">"</span></span><span class="pl-s">,</span>
+    <span class="pl-s"><span class="pl-pds">"</span>Master's in Electrical and Computer Engineering<span class="pl-pds">"</span></span><span class="pl-s">,</span>
+    <span class="pl-s"><span class="pl-pds">"</span>Bachelor's in Electronics and Communication<span class="pl-pds">"</span></span><span class="pl-s">,</span>
+  <span class="pl-s">]</span>
+<span class="pl-ent">company</span>: <span class="pl-s">Soulber</span>
+
+<span class="pl-ent">fields_of_interests</span>:
+  <span class="pl-s">[</span>
+    <span class="pl-s"><span class="pl-pds">"</span>Web Development<span class="pl-pds">"</span></span><span class="pl-s">,</span>
+    <span class="pl-s"><span class="pl-pds">"</span>Data Science<span class="pl-pds">"</span></span><span class="pl-s">,</span>
+    <span class="pl-s"><span class="pl-pds">"</span>Machine Learning<span class="pl-pds">"</span></span><span class="pl-s">,</span>
+    <span class="pl-s"><span class="pl-pds">"</span>UI/UX<span class="pl-pds">"</span></span><span class="pl-s">,</span>
+    <span class="pl-s"><span class="pl-pds">"</span>Game Development<span class="pl-pds">"</span></span><span class="pl-s">,</span>
+    <span class="pl-s"><span class="pl-pds">"</span>DevOps<span class="pl-pds">"</span></span><span class="pl-s">,</span>
+  <span class="pl-s">]</span>
+<span class="pl-ent">technical_background</span>:
+  <span class="pl-s">[</span>
+    <span class="pl-s"><span class="pl-pds">"</span>Full Stack Developer<span class="pl-pds">"</span></span>
+    <span class="pl-s"><span class="pl-pds">"</span>DevOps Solutions Architect<span class="pl-pds">"</span></span><span class="pl-s">,</span>
+    <span class="pl-s"><span class="pl-pds">"</span>Intern - Data Science &amp; Machine Learning in Python<span class="pl-pds">"</span></span><span class="pl-s">,</span>
+    <span class="pl-s"><span class="pl-pds">"</span>Intern - Internet Of Things<span class="pl-pds">"</span></span><span class="pl-s">,</span>
+    <span class="pl-s"><span class="pl-pds">"</span>Intern - VLSI and FPGA Implementation<span class="pl-pds">"</span></span><span class="pl-s">,</span>
+  <span class="pl-s">]</span>
+  
+<span class="pl-ent">currently_learning</span>: <span class="pl-s">["Docker, Kubernetes, and React Native"]</span>
+<span class="pl-ent">2024 Goals</span>: <span class="pl-s">["Create 25+ Projects and learn at least 5-10 new Technologies."]</span>
+<span class="pl-ent">hobbies</span>: <span class="pl-s">["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]</span></pre>
