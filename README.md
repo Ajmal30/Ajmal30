@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2><a id="user-content---a-little-bit-about-me-and-my-interests" class="anchor" aria-label="Permalink:  👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests" href="#--a-little-bit-about-me-and-my-interests"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div class="highlight highlight-source-yaml notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-ent">name</span>: <span class="pl-s">Ajmal Nayeem</span>
 <span class="pl-ent">located_in</span>: <span class="pl-s">Chennai, India</span>
-<span class="pl-ent">current_job</span>: <span class="pl-s">Backend Developer</span>
+<span class="pl-ent">current_job</span>: <span class="pl-s">Software Engineer</span>
 <span class="pl-ent">education</span>:
   <span class="pl-s">[</span>
     <span class="pl-s"><span class="pl-pds">"</span>Bachelor in Computer Science Engineering<span class="pl-pds">"</span></span><span class="pl-s">,</span>
@@ -52,14 +52,14 @@ Here are some ideas to get you started:
   <span class="pl-s">]</span>
 <span class="pl-ent">technical_background</span>:
   <span class="pl-s">[</span>
-    <span class="pl-s"><span class="pl-pds">"</span>Backend Developer<span class="pl-pds">"</span></span>
+    <span class="pl-s"><span class="pl-pds">"</span>Software Engineer<span class="pl-pds">"</span></span>
     <span class="pl-s"><span class="pl-pds">"</span>Intern - Data Science &amp; Machine Learning in Python<span class="pl-pds">"</span></span><span class="pl-s">,</span>
     <span class="pl-s"><span class="pl-pds">"</span>Intern - Flutter Developer<span class="pl-pds">"</span></span><span class="pl-s">,</span>
   <span class="pl-s">]</span>
   
-<span class="pl-ent">currently_learning</span>: <span class="pl-s">["Rust, Jenkins"]</span>
-<span class="pl-ent">2025 Goals</span>: <span class="pl-s">["Explore new technoloies and contribute more in open source projects"]</span>
-<span class="pl-ent">hobbies</span>: <span class="pl-s">["Gaming", "Cinema", "Writing", "Reading"]</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+<span class="pl-ent">currently_learning</span>: <span class="pl-s">["Java"]</span>
+<span class="pl-ent">2025 Goals</span>: <span class="pl-s">["Explore new technologies and Contribute more in open source projects"]</span>
+<span class="pl-ent">hobbies</span>: <span class="pl-s">["Gaming", "Movies", "Soccer", "Reading"]</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
   </div>
   <hr>
   </hr>
