@@ -2,20 +2,20 @@
   </p><h1 align="center">Welcome to <a href="https://github.com/MrBlueBird2">Ajmal Nayeem</a>'s Profile 👋</h1>
 <p></p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&amp;font=IBM+Plex+Sans&amp;color=F72EE2&amp;size=25&amp;lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B534&center=true&width=435&lines=Welcome+to+my+Profile;I'm+a+Back-end+Developer+" alt="Typing SVG" /></a>
 </p>
 <p>I am a back-end developer, I'm a Competitive Programmer, I also like to create projects in Go and Flask</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
-  <li>👋 Hi, I’m @MrBlueBird2</li>
-  <li>❤️ I love Creating websites and Programming in Python.</li>
+  <li>👋 Hi, I’m @Ajmal30</li>
+  <li>❤️ I love Developing websites and Programming in Python.</li>
   <li>🌱 I’m currently learning Web Development, Android Development, C++, Python, and Go</li>
   <li>💼 I'm a Back-End developer at Tata Elxsi</li>
 </ul>
 <h4 id="a-little-more-about-me">A little more about me</h4>
 <pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">const</span><span style="color:#79B8FF"> badri</span><span style="color:#F97583"> =</span><span style="color:#E1E4E8"> {</span></span>
 <span class="line"><span style="color:#E1E4E8">  pronouns: </span><span style="color:#9ECBFF">"He"</span><span style="color:#F97583"> |</span><span style="color:#9ECBFF"> "Him"</span><span style="color:#E1E4E8">,</span></span>
-<span class="line"><span style="color:#E1E4E8">  code: [</span><span style="color:#9ECBFF">"Javascript"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Python"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"HTML"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"CSS"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"C++"</span><span style="color:#E1E4E8">],</span></span>
+<span class="line"><span style="color:#E1E4E8">  code: [</span><span style="color:#9ECBFF">"Python"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Python"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"HTML"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"CSS"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"C++"</span><span style="color:#E1E4E8">],</span></span>
 <span class="line"><span style="color:#E1E4E8">  askMeAbout: [</span><span style="color:#9ECBFF">"web dev"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"frontend dev"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"python"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"flask"</span><span style="color:#E1E4E8">],</span></span>
 <span class="line"><span style="color:#E1E4E8">  technologies: {</span></span>
 <span class="line"><span style="color:#E1E4E8">      frontend: [</span><span style="color:#9ECBFF">"HTML"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"CSS"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"JS"</span><span style="color:#E1E4E8">, </span><span style="color:#9ECBFF">"Bootstrap"</span><span style="color:#E1E4E8">],</span></span>
