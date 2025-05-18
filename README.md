@@ -20,7 +20,8 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> <img src="assets/dev_icon.png" width="50" alt="Developer Icon"/>
+ &nbsp; A Little Bit About Me and My Interests</h2>
 
 ```yaml
 name: Ajmal Nayeem
