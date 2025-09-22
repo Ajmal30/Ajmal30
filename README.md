@@ -24,16 +24,36 @@
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=vue,zig)](https://skillicons.dev)
 
+### GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajmal30&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmal30&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### Fun
+![Profile views](https://komarev.com/ghpvc/?username=Ajmal30&color=blue)
+
+![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 
 ### Connect with me!
 <div>
+      <a href="mailto:ajmalnayeem.aj@gmail.com">
+      <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="33" height="33"/>
+    </a>
     <a href="https://www.linkedin.com/in/ajmal-nayeem/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="35" height="35"/>
     </a>
-    <a href="https://dev.to/ajmal_7">
-        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="37" height="37"/>
+    <a href="https://x.com/rick_2356">
+        <img src="https://img.icons8.com/color/48/twitter--v1.png",alt="Dev.to" width="37" height="37"/>
     </a>
+    
 </div>
 
 <!--
