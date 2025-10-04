@@ -44,14 +44,17 @@
 
 ### Connect with me!
 <div>
-      <a href="mailto:ajmalnayeem.aj@gmail.com">
-      <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="33" height="33"/>
+      <a href="https://my-website-dvjd.onrender.com/">
+      <img src="https://img.icons8.com/color/48/portfolio.png" alt="Gmail" width="34" height="35"/>
     </a>
     <a href="https://www.linkedin.com/in/ajmal-nayeem/">
         <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="35" height="35"/>
     </a>
     <a href="https://x.com/rick_2356">
         <img src="https://img.icons8.com/color/48/twitter--v1.png",alt="Dev.to" width="37" height="37"/>
+    </a>
+     <a href="mailto:ajmalnayeem.aj@gmail.com">
+      <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="33" height="33"/>
     </a>
     
 </div>
