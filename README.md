@@ -18,25 +18,30 @@
 <!--
      This is the list of my skills and tools I am studying!
 -->
-### Main skills
+### Primary skills
 [![My Skills](https://skillicons.dev/icons?i=py,go,cpp,java,spring,docker,kubernetes,aws,kafka,redis,gitlab,maven,flask,bash,html,css,git,mongodb,mysql,idea,eclipse)](https://skillicons.dev)
 
-### Studying
+### Upskilling
 [![Learning](https://skillicons.dev/icons?i=vue,zig)](https://skillicons.dev)
 
-### GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajmal30&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
+<h2 align="center" class="section-heading"> Github Stats</h2>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajmal30&theme=github_dark" alt="Ajmal's GitHub Stats"/></td>
+       <!-- <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=antoniorodr&theme=github-dark&hide_border=true" alt="GitHub Streak" /></a></td> -->
+    </tr>
+ </table>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmal30&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ajmal30&theme=github_dark&utcOffset=1" alt="Ajmal's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajmal30&theme=github_dark" alt="Ajmal's GitHub Stats"/></td>
+    </tr>
+ </table>
+</div>
 
 ---
-
-### Fun
-![Profile views](https://komarev.com/ghpvc/?username=Ajmal30&color=blue)
 
 ![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
@@ -45,17 +50,22 @@
 ### Connect with me!
 <div>
       <a href="https://my-website-dvjd.onrender.com/">
-      <img src="https://img.icons8.com/color/48/portfolio.png" alt="Gmail" width="34" height="35"/>
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139" alt="Portfolio" width="140" height="140"/>
     </a>
     <a href="https://www.linkedin.com/in/ajmal-nayeem/">
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="35" height="35"/>
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="100" height="100"/>
     </a>
     <a href="https://x.com/rick_2356">
-        <img src="https://img.icons8.com/color/48/twitter--v1.png",alt="Dev.to" width="37" height="37"/>
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white",alt="Twitter" width="90" height="90"/>
     </a>
      <a href="mailto:ajmalnayeem.aj@gmail.com">
-      <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="33" height="33"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" width="110" height="110"/>
     </a>
+     <a href="https://leetcode.com/u/Ajmal_30/">
+      <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" alt="Leetcode" width="140" height="140"/>
+    </a>
+        
+
     
 </div>
 
