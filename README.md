@@ -49,9 +49,6 @@
 
 ### Connect with me!
 <div>
-      <a href="https://my-website-dvjd.onrender.com/">
-      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139" alt="Portfolio" width="140" height="140"/>
-    </a>
     <a href="https://www.linkedin.com/in/ajmal-nayeem/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="100" height="100"/>
     </a>
